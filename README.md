@@ -100,6 +100,7 @@ Those who earn the Google Data Analytics Professional Certificate have completed
 **Data Science -AtoZ From Udemy**
 
 **PL-300/DA-100 Microsoft Power BI Certification**
+
 Learned Data Prep and Data Transforming
 Created high-performing Data Models
 Mastered Data Visualization and enhance your reports
