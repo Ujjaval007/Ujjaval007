@@ -41,6 +41,19 @@ Identify different factors affecting sales so that future business decisions can
 Report File-[Smart Report-PDF.pdf](https://github.com/Ujjaval007/Ujjaval007/files/7633053/Smart.Report-PDF.pdf)
 
 
+**F1 Dashboard**
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ I have analysed Formula 1 race data from 1950-2022 and gathered diffrent insights related to diffrent drivers and constructors.Developed multipage report which demonstrates F1 historical data and current season data.
+ 
+ ![Dashboard 1](https://user-images.githubusercontent.com/91518201/179360568-cfbfd6b0-1a92-46fd-9810-f0c456b3a419.jpg)
+
+
+
+![Dashboard 2](https://user-images.githubusercontent.com/91518201/179360571-4c44811a-f72c-45c5-94d9-54c057657b35.jpg)
+
+
+
+
 
 **Customer Segmentation and Sales Analysis for Distributor**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -85,6 +98,13 @@ After analysis, we have designed a dashboard so that stakeholders can drill down
 Those who earn the Google Data Analytics Professional Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for introductory-level roles in Data Analytics. They are competent in tools and platforms including spreadsheets, SQL, Tableau, and R. They know how to prepare, process, analyze, and share data for thoughtful action.
 
 **Data Science -AtoZ From Udemy**
+
+**PL-300/DA-100 Microsoft Power BI Certification**
+Learned Data Prep and Data Transforming
+Created high-performing Data Models
+Mastered Data Visualization and enhance your reports
+Analyzed your Data and deliver real insights
+Delivered the reports to your audience and manage Power BI in the Cloud
 
 ---------------------------------------------------------------------------
 
