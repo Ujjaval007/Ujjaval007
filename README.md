@@ -102,9 +102,13 @@ Those who earn the Google Data Analytics Professional Certificate have completed
 **PL-300/DA-100 Microsoft Power BI Certification**
 
 -Learned Data Prep and Data Transforming
+
 -Created high-performing Data Models
+
 -Mastered Data Visualization and enhance your reports
+
 -Analyzed your Data and deliver real insights
+
 -Delivered the reports to your audience and manage Power BI in the Cloud
 
 ---------------------------------------------------------------------------
